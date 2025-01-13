@@ -1,9 +1,9 @@
 {
-	"name": "contest",
+	"name": "tet-anonymous-message",
 	"private": true,
 	"version": "0.0.0",
 	"type": "module",
-	"homepage": "https://longlinh123456.github.io/jsi14-final",
+	"homepage": "https://longlinh123456.github.io/tet-anonymous-message",
 	"scripts": {
 		"dev": "vite",
 		"build": "tsc && vite build",
