@@ -28,7 +28,7 @@ const router = createBrowserRouter([
 		path: "*",
 		element: <LandingPage />
 	},
-], {basename: "/jsi14-final"})
+], {basename: "/tet-anonymous-message"})
 
 
 function App() {

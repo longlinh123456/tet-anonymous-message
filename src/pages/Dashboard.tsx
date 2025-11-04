@@ -20,7 +20,7 @@ function Dashboard() {
 			navigate("/login")
 		}
 		
-		const inboxLink = `${window.location.origin}/jsi14-cringe/sendmessage/${userData?.uid}`
+		const inboxLink = `${window.location.origin}/tet-anonymous-message/sendmessage/${userData?.uid}`
 		return (
 			<>
 				<div className="flex h-screen w-screen flex-col">

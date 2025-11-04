@@ -65,7 +65,7 @@ function Landing() {
 							<h2 className="mb-6 text-sm font-semibold dark:text-textyellow">Follow us</h2>
 							<ul className="dark:text-white">
 								<li className="mb-4">
-									<a href="https://github.com/longlinh123456/jsi14-cringe" className="hover:underline ">Github</a>
+									<a href="https://github.com/longlinh123456/tet-anonymous-message" className="hover:underline ">Github</a>
 								</li>
 								<li>
 									<a href="https://discord.com" className="hover:underline">Discord</a>
